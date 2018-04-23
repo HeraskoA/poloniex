@@ -15,8 +15,8 @@ import (
 )
 
 const (
-	origin        = "https://api2.poloniex.com/"
-	pushAPIUrl    = "wss://api2.poloniex.com/realm1"
+	origin        = "https://api.poloniex.com/"
+	pushAPIUrl    = "wss://api.poloniex.com/realm1"
 	publicAPIUrl  = "https://poloniex.com/public?command="
 	tradingAPIUrl = "https://poloniex.com/tradingApi"
 )
